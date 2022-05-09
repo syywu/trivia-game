@@ -28,3 +28,5 @@ timer
 -setInterval()
 -counter- count++
 -clearInterval(counter)
+
+google- see, simple things will get better results. How to do <action> with <something from the langauge> in <language>
