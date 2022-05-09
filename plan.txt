@@ -1,0 +1,30 @@
+Now that you have an understanding of what data you're working with and have come up with an idea of what you could achieve, break down the problem into smaller chunks. Keep breaking the problem down until you can translate your plan into code. You should dream big, break it down, and start small. If your plan turns out to be overly ambitious, then be smart and reign it in. If you've been too conservative, try and push yourself.
+
+
+
+fetch data from api
+-.fetch()
+-.json()
+-chnage url to get certain info?
+
+homepage
+-homepage button if user wants to re-select quiz
+-get username?
+-create buttons to pick difficulties, cateogries
+
+grab questions from api depending on which cateogries and difficulties were chosen
+-out of 10 questions
+
+buttons to represent each answers
+- 4 buttons for multiple answers
+- 2 buttons for true or false
+
+track score
+-initialse score = 0
+-score ++
+
+timer 
+- to see how long user has been playing the game
+-setInterval()
+-counter- count++
+-clearInterval(counter)
